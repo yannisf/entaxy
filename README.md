@@ -16,6 +16,9 @@
   στοιχεία, διευθύνσεις, τηλέφωνα και σημειώσεις
 - Για κάθε παιδί, τα πρόσωπά του, η σχέση τους με το παιδί και τα στοιχεία επικοινωνίας
   τους
+- Μια τάξη μπορεί να κλειδωθεί από το μενού Τάξη: τα παιδιά της δεν προστίθενται, δεν
+  αλλάζουν και δεν αφαιρούνται μέχρι να την ξεκλειδώσετε από το ίδιο μενού. Ένα λουκέτο
+  δίπλα στο όνομά της δείχνει ότι είναι κλειδωμένη. Το όνομα της τάξης αλλάζει κανονικά
 
 ### Αναφορές
 
@@ -40,6 +43,9 @@
 
 Αν η τάξη υπάρχει ήδη στο Entaxy, η εισαγωγή δεν την αντικαθιστά ποτέ: το αρχείο
 προστίθεται ως ξεχωριστή τάξη, με την ημερομηνία εισαγωγής στο όνομά της.
+
+Μια τάξη που εισάγεται είναι πάντα κλειδωμένη, ώστε να μην αλλάξει κατά λάθος.
+Ξεκλειδώστε τη από το μενού Τάξη όταν θέλετε να επεξεργαστείτε τα παιδιά της.
 
 ### Τα δεδομένα σας μένουν στη συσκευή σας
 
@@ -67,6 +73,9 @@ English.
   numbers and notes
 - For each student, their guardians, how they are related to the student, and their
   contact details
+- A class can be locked from the Class menu: its students can't be added, changed or
+  removed until you unlock it from the same menu. A lock next to its name shows that it is
+  locked. The class's name can still be changed
 
 ### Reports
 
@@ -91,6 +100,9 @@ be typed exactly as it was set.
 
 If the class is already in Entaxy, importing never replaces it: the file is added as a
 separate class, with the import date in its name.
+
+An imported class is always locked, so it can't be changed by accident. Unlock it from the
+Class menu when you want to edit its students.
 
 ### Your data stays on your device
 
