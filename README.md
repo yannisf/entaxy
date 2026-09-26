@@ -34,7 +34,12 @@
 ### Εξαγωγή και εισαγωγή
 
 Αποθηκεύστε μια τάξη σε αρχείο και φορτώστε την ξανά, στον ίδιο ή σε άλλον υπολογιστή.
-Το αρχείο μπορεί να προστατευτεί με κωδικό.
+Το αρχείο είναι πάντα κρυπτογραφημένο: κατά την εξαγωγή επιλέγετε έναν κωδικό τουλάχιστον
+12 χαρακτήρων. Αν το αρχείο μπορεί να ανοιχτεί σε άλλον υπολογιστή, προτιμήστε λατινικά
+γράμματα, γιατί ο κωδικός πρέπει να πληκτρολογηθεί ακριβώς όπως ορίστηκε.
+
+Αν η τάξη υπάρχει ήδη στο Entaxy, η εισαγωγή δεν την αντικαθιστά ποτέ: το αρχείο
+προστίθεται ως ξεχωριστή τάξη, με την ημερομηνία εισαγωγής στο όνομά της.
 
 ### Τα δεδομένα σας μένουν στη συσκευή σας
 
@@ -46,9 +51,9 @@
 - Αν διαγράψετε τα δεδομένα ιστοτόπων του φυλλομετρητή, διαγράφονται και οι τάξεις σας
 - Οι τάξεις σας δεν μεταφέρονται μόνες τους σε άλλον φυλλομετρητή ή υπολογιστή.
   Χρησιμοποιήστε την εξαγωγή και την εισαγωγή για να τις μεταφέρετε
-- **Κάνετε τακτικά εξαγωγή των τάξεών σας** ως αντίγραφο ασφαλείας. Καλό είναι να
-  κρυπτογραφείτε το αρχείο, αφού περιέχει προσωπικά στοιχεία των παιδιών και των
-  οικογενειών τους. Ένας χαμένος κωδικός δεν μπορεί να ανακτηθεί
+- **Κάνετε τακτικά εξαγωγή των τάξεών σας** ως αντίγραφο ασφαλείας. Το αρχείο είναι
+  κρυπτογραφημένο, αφού περιέχει προσωπικά στοιχεία των παιδιών και των οικογενειών
+  τους. Ένας χαμένος κωδικός δεν μπορεί να ανακτηθεί
 
 ## English
 
@@ -79,8 +84,13 @@ English.
 
 ### Export and import
 
-Save a class to a file and load it back, on the same computer or another one. The file
-can be protected with a password.
+Save a class to a file and load it back, on the same computer or another one. The file is
+always encrypted: when you export, you choose a password of at least 12 characters. If the
+file may be opened on another computer, prefer Latin letters, because the password has to
+be typed exactly as it was set.
+
+If the class is already in Entaxy, importing never replaces it: the file is added as a
+separate class, with the import date in its name.
 
 ### Your data stays on your device
 
@@ -92,6 +102,6 @@ This also means:
 - Clearing your browser's site data deletes your classes
 - Your classes don't follow you to another browser or computer. Use export and import
   to move them
-- **Export your classes regularly** as a backup. Consider encrypting the file, since it
+- **Export your classes regularly** as a backup. The file is encrypted, since it
   contains personal information about students and their families. A lost password
   cannot be recovered
